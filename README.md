@@ -5,7 +5,7 @@ e Desenvolvimento de Sistemas da FIAP. A proposta surgiu a partir das
 enchentes de 2024 no Rio Grande do Sul, com foco em moradores e pequenos
 comerciantes de Lajeado, às margens do rio Taquari.
 
-## O que o protótipo propõe
+## Protótipo 
 
 - Acompanhar avisos de inundação por região.
 - Registrar ocorrências locais, como ruas alagadas.
